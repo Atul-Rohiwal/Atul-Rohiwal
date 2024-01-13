@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Atul-Rohiwal/Atul-Rohiwal](https://github.com/Atul-Rohiwal/Atul-Rohiwal)
 
-- 💬 Ask me about **React,Web,AWS,Android**
+- 💬 Ask me about **Flutter,Android-Development,Node.js,React,Web=Development,AWS**
 
 - 📫 How to reach me **rohiwalatul@gmail.com**
 
