@@ -1,8 +1,9 @@
 
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW1wej-K3wl9RBJuxllV0OwBP86xm1a2OIOw&usqp=CAU)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Atul-Rohiwal</h1>
 <h3 align="center">A Passionate Full Stack Developer From India.Fluent in three languages: English, Hindhi and Code.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
+<img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atul-rohiwal" alt="atul-rohiwal" /></a> </p>
 
 - 🌱 I’m currently learning **Laravel**
@@ -14,7 +15,6 @@
 - 📫 How to reach me **rohiwalatul@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Oz0_d5apM4wH1wkgNWM5wwFuAs1yQtlx/view](https://drive.google.com/file/d/1Oz0_d5apM4wH1wkgNWM5wwFuAs1yQtlx/view)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
